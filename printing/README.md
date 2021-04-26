@@ -3,3 +3,4 @@
 
 ![alt text](https://github.com/alanpham31/11th-programming/blob/main/printing/questions.png)
 
+![alt text](https://github.com/alanpham31/11th-programming/blob/main/printing/output2.png)
